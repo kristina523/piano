@@ -1,0 +1,15 @@
+/Users/kris/Projects/piano/piano/bin/Debug/net7.0/piano
+/Users/kris/Projects/piano/piano/bin/Debug/net7.0/piano.deps.json
+/Users/kris/Projects/piano/piano/bin/Debug/net7.0/piano.runtimeconfig.json
+/Users/kris/Projects/piano/piano/bin/Debug/net7.0/piano.dll
+/Users/kris/Projects/piano/piano/bin/Debug/net7.0/piano.pdb
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/piano.csproj.AssemblyReference.cache
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/piano.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/piano.AssemblyInfoInputs.cache
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/piano.AssemblyInfo.cs
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/piano.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/piano.dll
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/refint/piano.dll
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/piano.pdb
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/piano.genruntimeconfig.cache
+/Users/kris/Projects/piano/piano/obj/Debug/net7.0/ref/piano.dll
